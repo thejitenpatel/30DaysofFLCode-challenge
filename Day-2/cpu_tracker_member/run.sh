@@ -1,6 +1,6 @@
 #!/bin/sh
 
-## This code is coped from - https://syftbox-documentation.openmined.org/cpu-tracker-1
+## This code is copied from - https://syftbox-documentation.openmined.org/cpu-tracker-1
 set -e
 
 if [ ! -d ".venv" ]; then
